@@ -8,25 +8,29 @@ p {
     padding: 10px;
     margin: 1px;
     background-color: rgb(171, 171, 189);
+    text-align: center;
 }
 h2 {
     font-family: "Libre Baskerville";
     font-style: italic;
     font-weight: 800;
-    color: white;
+    color: palevioletred;
     text-decoration: underline;
+    text-align: center;
 }
 h1 {
     font-family: "Libre Baskerville";
     font-style: italic;
     font-weight: 650;
     color: white;
+    text-align: center;
 }
 a {
     font-family: "Libre Baskerville";
     font-style: italic;
     font-weight: 500;
     color: white;
+    text-align: center;
 }
 img {
     border-radius: 30%;
