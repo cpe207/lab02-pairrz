@@ -4,11 +4,22 @@ body {
 p {
     font-family: "Libre Baskerville";
     color: white;
+    border: 3px  cornflowerblue;
+    padding: 10px;
+    margin: 1px;
+    background-color: rgb(171, 171, 189);
+}
+h2 {
+    font-family: "Libre Baskerville";
+    font-style: italic;
+    font-weight: 800;
+    color: white;
+    text-decoration: underline;
 }
 h1 {
     font-family: "Libre Baskerville";
     font-style: italic;
-    font-weight: 800;
+    font-weight: 650;
     color: white;
 }
 a {
@@ -17,3 +28,13 @@ a {
     font-weight: 500;
     color: white;
 }
+img {
+    border-radius: 30%;
+}
+.head {
+    padding-top: 55px;
+    padding-bottom: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+    background-color: palevioletred;
+  }
