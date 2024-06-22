@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(58, 58, 58);
+}
+p {
+    text-align: center;
+    font-family: "Libre Baskerville";
+    color: white;
+    border: 5px solid;
+    padding: 10px;
+    margin: 0px;
+}
+h1 {
+    text-align: center;
+    font-family: "Libre Baskerville";
+    font-style: italic;
+    font-weight: 800;
+    color: white;
+}
+a {
+    font-family: "Libre Baskerville";
+    font-style: italic;
+    font-weight: 500;
+    color: white;
+}
